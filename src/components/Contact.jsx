@@ -117,7 +117,7 @@ export default function Contact() {
           <span className="footer-copy">Built by Bhupesh Suryawanshi · React + Vite · {new Date().getFullYear()}</span>
           <div className="footer-links">
             <a href="https://github.com/bhupesh04" target="_blank" rel="noopener noreferrer"><FiGithub size={16} /></a>
-            <a href="https://linkedin.com/in/bhupesh-suryawanshi" target="_blank" rel="noopener noreferrer"><FiLinkedin size={16} /></a>
+            <a href="https://www.linkedin.com/in/bhupesh-suryawanshi15/" target="_blank" rel="noopener noreferrer"><FiLinkedin size={16} /></a>
           </div>
         </div>
       </div>
