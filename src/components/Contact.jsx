@@ -5,7 +5,7 @@ import './Contact.css'
 
 const socials = [
   { icon: <FiMail size={18} />, label: 'Email', value: 'suryawanshibhupesh4@gmail.com', href: 'mailto:suryawanshibhupesh4@gmail.com' },
-  { icon: <FiLinkedin size={18} />, label: 'LinkedIn', value: '/in/bhupesh-suryawanshi', href: 'https://linkedin.com/in/bhupesh-suryawanshi' },
+  { icon: <FiLinkedin size={18} />, label: 'LinkedIn', value: '/in/bhupesh-suryawanshi/15', href: 'https://www.linkedin.com/in/bhupesh-suryawanshi15/' },
   { icon: <FiGithub size={18} />, label: 'GitHub', value: 'github.com/bhupesh04', href: 'https://github.com/bhupesh04' },
   { icon: <FiPhone size={18} />, label: 'Phone', value: '+91 6354962174', href: 'tel:+916354962174' },
 ]
