@@ -41,7 +41,7 @@ export default function Navbar() {
               {link.label}
             </a>
           ))}
-          <a href="/assets/Bhupesh_Suryawanshi_Resume.pdf"
+          <a href="/assets/Bhupesh_Suryawanshi_FullStack_Resume.pdf"
             className="btn btn-outline nav-resume"
             target="_blank" rel="noopener noreferrer">
             Resume
